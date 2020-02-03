@@ -21,7 +21,7 @@ public class GA {
     }
 
 
-
+// initializes random first generation of answers
     private void firstGen(){
         for (boolean[] b :generation1) {
             for (boolean a: b) {
